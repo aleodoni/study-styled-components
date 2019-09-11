@@ -6,17 +6,34 @@ export const Container = styled.div`
   justify-content: center;
   align-items: center;
 
-  height: 100vh;
+  height: 95vh;
 
   p {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex: 1;
+
     padding: 0 40px 10px 40px;
     color: #fff;
     font-size: 14px;
     line-height: 24px;
   }
 
+  p svg {
+    margin-right: 10px;
+  }
+
   p:last-child {
     padding-bottom: 40px;
+  }
+
+  p a:hover,
+  a:visited,
+  a:link,
+  a:active {
+    text-decoration: none;
+    color: #fff;
   }
 
   h1 {
