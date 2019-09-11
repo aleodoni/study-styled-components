@@ -1,0 +1,9 @@
+{
+  "info": "The main purpose of this project is to study ReactJS and styled-components.",
+  "whoami": {
+    "author": "Alexandre Odoni",
+    "email": "aleodoni@gmail.com",
+    "linkedin": "linkedin address",
+    "github": "github address"
+  }
+}

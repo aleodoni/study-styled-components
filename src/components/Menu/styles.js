@@ -15,7 +15,7 @@ export const Container = styled.div`
 
   padding: 0 20px;
   background-color: #575689;
-  box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 1);
 
   nav {
     display: flex;
