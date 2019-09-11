@@ -1,7 +1,17 @@
 import React from 'react';
+// import { DiReact } from 'react-icons/di';
 
-import { Title } from './styles';
+// import { Container } from './styles';
+import Menu from '../../components/Menu';
 
 export default function Main() {
-  return <Title>Main</Title>;
+  return (
+    // <Container>
+    //   <h1>
+    //     <DiReact />
+    //     ReactJS + Styled Components Examples
+    //   </h1>
+    // </Container>
+    <Menu />
+  );
 }

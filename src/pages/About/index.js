@@ -7,7 +7,7 @@ export default function Example01() {
   return (
     <Container>
       <Menu />
-      <h1>Example01</h1>
+      <h1>This is the about page</h1>
     </Container>
   );
 }
