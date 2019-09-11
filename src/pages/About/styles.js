@@ -48,6 +48,7 @@ export const Dialog = styled.div`
   flex-direction: column;
 
   background-color: #575689;
+  min-width: 360px;
   width: 40%;
   border-radius: 4px;
   opacity: 0.9;
